@@ -25,7 +25,7 @@
 
    5. Clone Repo and install required packages
       ```
-      git clone https://github.com/Bladeh4x/BLADE-MD
+      git clone https://github.com/Grt0Alvin/BLADE-MD
       cd BLADE-MD
       yarn install --network-concurrency 1
       ```
@@ -41,13 +41,13 @@
       OWNER_NUMBER="92xxxxxxxxxx"
       MONGODB_URI="mongodb+srv://*************"
       SESSION_ID = "Put Session Id Here"
-      THUMB_IMAGE = "https://telegra.ph/file/8f6f537cc4103b48f3783.jpg"
+      THUMB_IMAGE = "https://telegra.ph/file/0a54e9d84f945e2352501.jpg"
       port = 5000
       email = "xxxxxxxxxxxxx@gmail.com"
-      global_url = "www.tiktok/Blade_ffhx"
-      OWNER_NAME = "SALMAN"
+      global_url = "https://chat.whatsapp.com/KrL1XGph7cu7Plv6cr3tAd"
+      OWNER_NAME = "ALVIN"
       AUTO_REACTION = false
-      FAKE_COUNTRY_CODE = 354
+      FAKE_COUNTRY_CODE = 233
       READ_MESSAGE = false
       PREFIX = .
       WARN_COUNT = 3
