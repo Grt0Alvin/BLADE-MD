@@ -1,15 +1,15 @@
 {
-               "name": "BLADE-MD",
+               "name": "ALVIN-MD",
                "version": "0.0.7",
-               "description": "Multi device whatsapp bot by alexdavid.",
+               "description": "Multi device whatsapp bot by alvin.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
                "scripts": {
-                  "start": "pm2 start lib/client.js --deep-monitoring --attach --name blade-md",
-                  "stop": "pm2 stop blade-md"
+                  "start": "pm2 start lib/client.js --deep-monitoring --attach --name alvin-md",
+                  "stop": "pm2 stop alvin-md"
                },
-               "author": "alexdavid",
+               "author": "alvin",
                "dependencies": {
                        "@sampandey001/baileys": "latest", 
                        "@adiwajshing/keyed-db": "^0.2.4",
@@ -68,11 +68,11 @@
                     },
                  "repository": {
                  "type": "git",
-                 "url": "git+https://github.com/Bladeh4x/BLADE-MD.git"
+                 "url": "git+https://github.com/Grt0Alvin/BLADE-MD.git"
                   },
                  "bugs": {
-                 "url": "https://github.com/Bladeh4x/BLADE-MD/issues"
+                 "url": "https://github.com/Grt0Alvin/BLADE-MD/issues"
                   },
-                 "homepage": "https://github.com/Bladeh4x/BLADE-MD#readme"
+                 "homepage": "https://github.com/Grt0Alvin/BLADE-MD#readme"
                   }
  
