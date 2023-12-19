@@ -1,29 +1,29 @@
 
 </p>
 <p align="center">
-  <a href="https://chat.whatsapp.com/ESB8e9HAS2wGlwBvzGYnLx">
-    <img alt=Support height="250" src="https://telegra.ph/file/362dd0f0cb45468934804.jpg"> 
+  <a href="https://chat.whatsapp.com/KrL1XGph7cu7Plv6cr3tAd">
+    <img alt=Support height="250" src="https://telegra.ph/file/0a54e9d84f945e2352501.jpg"> 
     </p>
       <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=THIS IS+BLADE-MD ;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+THE TEAM BLADE ;PUBLIC+RELESED+DATE;2023/08/21;." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=THIS IS+BLADE-MD ;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+THE ALVIN ;PUBLIC+RELESED+DATE;2023/08/21;." alt="Typing SVG" /></a>
   </p>
   <p align="center"> 
-  <a href="https://github.com/Bladeh4x/BLADE-MD/stargazers">
-    <img src="https://img.shields.io/github/stars/Bladeh4x/BLADE-MD?style=social">
+  <a href="https://github.com/Grt0Alvin/BLADE-MD/stargazers">
+    <img src="https://img.shields.io/github/stars/Grt0Alvin/BLADE-MD?style=social">
 
  <p align="center">
-  <a href="https://github.com/Bladeh4x/BLADE-MD/fork">
-    <img src="https://img.shields.io/github/forks/Bladeh4x/BLADE-MD?label=Fork&style=social">
+  <a href="https://github.com/Grt0Alvin/BLADE-MD/fork">
+    <img src="https://img.shields.io/github/forks/Grt0Alvin/BLADE-MD?label=Fork&style=social">
   
   # ```Tap Here For Help```  
   
   <p align="left">
-  <a href="https://wa.me/2348059540212?text=Hello%20alex~tv%20...%20I%20need%20some%20help%20in%20blade%20md">
+  <a href="https://wa.me/233533255746?text=Hello%20alvin%20...%20I%20need%20some%20help%20in%20alvin%20md">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
   Tap here for contact me on WhatsApp Messenger 
   </p>
   <p align="center">
-  <a href="My email: maxdavid126@gmail.com">
+  <a href="My email: smvino9@gmail.com">
     <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Gmail.svg" />
   
     My email Adress : maxdavid126@gmail.com
@@ -33,7 +33,7 @@
 
 ## Deployment Methods
 ---
-1. ***Get [`SESSION ID`](https://replit.com/@Bladeh4x/BLADE-MD-V2-1?v=1)  by scanning QR code. `Whatapp>Three dots>Linked Devices`***
+1. ***Get [`SESSION ID`](https://replit.com/@Grt0Alvin/BLADE-MD-V2-1?v=1)  by scanning QR code. `Whatapp>Three dots>Linked Devices`***
 ##
    
 # ```EXTERNAL STUFF AND API```
@@ -60,7 +60,7 @@ mongodb://usrdhz7ejxwayzvw69qm:fRuJImqP1BOZyGk9fD6@bupt7kruqljyivftjl4i-mongodb.
 </h4>
 
 <p align="center" >
-    <a href="https://repl.it/github/Bladeh4x/BLADE-MD">
+    <a href="https://repl.it/github/Grt0Alvin/BLADE-MD">
     <img src="https://i.ibb.co/zrB5kMh/deploy-on-repl.jpg" width="170px" alt="Deploy on Heroku" >
     </a>
 </p>
@@ -77,7 +77,7 @@ mongodb://usrdhz7ejxwayzvw69qm:fRuJImqP1BOZyGk9fD6@bupt7kruqljyivftjl4i-mongodb.
 </h4>
       
 <p align="center">
-    <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Bladeh4x/BLADE-MD&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=8801853262586&env[MONGODB_URI]&&env[OWNER_NAME]=SLASHER&env[KOYEB_API]&env[PREFIX]=.&env[ALIVE_IMG]=https://telegra.ph/file/1da92586c209009d5131d.jpg&env[global_url]=instagram.com&env[FAKE_COUNTRY_CODE]=92&env[READ_MESSAGE]=false&env[DISABLE_PM]=false&env[WORKTYPE]=public&env[THEME]=GOJO&env[PACK_INFO]=BLADE-MD;BY-ALEXDAVID&name=BLADE-MD&env[KOYEB_NAME]=BLADE-MD&env[ANTILINK_VALUES]=chat.whatsapp.com&env[PORT]=8000)">
+    <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Grt0Alvin/BLADE-MD&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=8801853262586&env[MONGODB_URI]&&env[OWNER_NAME]=SLASHER&env[KOYEB_API]&env[PREFIX]=.&env[ALIVE_IMG]=https://telegra.ph/file/1da92586c209009d5131d.jpg&env[global_url]=instagram.com&env[FAKE_COUNTRY_CODE]=92&env[READ_MESSAGE]=false&env[DISABLE_PM]=false&env[WORKTYPE]=public&env[THEME]=GOJO&env[PACK_INFO]=BLADE-MD;BY-ALEXDAVID&name=BLADE-MD&env[KOYEB_NAME]=BLADE-MD&env[ANTILINK_VALUES]=chat.whatsapp.com&env[PORT]=8000)">
     <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy on Koyeb" width="155px">
     </a>
    
@@ -99,7 +99,7 @@ mongodb://usrdhz7ejxwayzvw69qm:fRuJImqP1BOZyGk9fD6@bupt7kruqljyivftjl4i-mongodb.
 </p>
 
 <p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/Bladeh4x/BLADE-MD">
+    <a href="https://heroku.com/deploy?template=https://github.com/Grt0Alvin/BLADE-MD">
     <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Heroku" >
     </a>
 
