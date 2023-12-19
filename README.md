@@ -5,7 +5,7 @@
     <img alt=Support height="250" src="https://telegra.ph/file/0a54e9d84f945e2352501.jpg"> 
     </p>
       <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=THIS IS+BLADE-MD ;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+THE ALVIN ;PUBLIC+RELESED+DATE;2023/08/21;." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=THIS IS+ALVIN-MD ;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+ ALVIN ;PUBLIC+RELESED+DATE;2023/08/21;." alt="Typing SVG" /></a>
   </p>
   <p align="center"> 
   <a href="https://github.com/Grt0Alvin/BLADE-MD/stargazers">
